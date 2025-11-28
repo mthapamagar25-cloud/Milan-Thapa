@@ -1,2 +1,2 @@
 # Milan-Thapa
-file:///D:/HTML/mylove.html
+file:///D:/HTML/index.html
